@@ -12,7 +12,7 @@ Global ip:  XXX.XXX.XXX.XXX
 Local ip:  192.168.XXX.XXX
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-Scanning remote host 103.239.254.204
+Scanning remote host XXX.XXX.XXX.XXX
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 Port 22:         Open
 Port 80:         Open
@@ -21,7 +21,7 @@ Port 420:        Open
 Port 3000:       Open
 Port 6969:       Open
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-Scanning remote host 192.168.1.42
+Scanning remote host 192.168.XXX.XXX
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 Port 22:         Open
 Port 80:         Open
